@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArbolB_Imp", "ArbolB_Imp\ArbolB_Imp.vcxproj", "{87B85100-C327-4A3F-BA35-2AF5FED5082A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArbolB+Imp", "ArbolB+Imp\ArbolB+Imp.vcxproj", "{28C3278A-3220-42BF-9D0B-FC541FFEDB16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{87B85100-C327-4A3F-BA35-2AF5FED5082A}.Release|x64.Build.0 = Release|x64
 		{87B85100-C327-4A3F-BA35-2AF5FED5082A}.Release|x86.ActiveCfg = Release|Win32
 		{87B85100-C327-4A3F-BA35-2AF5FED5082A}.Release|x86.Build.0 = Release|Win32
+		{28C3278A-3220-42BF-9D0B-FC541FFEDB16}.Debug|x64.ActiveCfg = Debug|x64
+		{28C3278A-3220-42BF-9D0B-FC541FFEDB16}.Debug|x64.Build.0 = Debug|x64
+		{28C3278A-3220-42BF-9D0B-FC541FFEDB16}.Debug|x86.ActiveCfg = Debug|Win32
+		{28C3278A-3220-42BF-9D0B-FC541FFEDB16}.Debug|x86.Build.0 = Debug|Win32
+		{28C3278A-3220-42BF-9D0B-FC541FFEDB16}.Release|x64.ActiveCfg = Release|x64
+		{28C3278A-3220-42BF-9D0B-FC541FFEDB16}.Release|x64.Build.0 = Release|x64
+		{28C3278A-3220-42BF-9D0B-FC541FFEDB16}.Release|x86.ActiveCfg = Release|Win32
+		{28C3278A-3220-42BF-9D0B-FC541FFEDB16}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
