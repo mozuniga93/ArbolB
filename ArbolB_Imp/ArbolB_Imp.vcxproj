@@ -148,12 +148,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ArbolB.cpp" />
+    <ClCompile Include="Constants.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Pagina.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArbolB.h" />
+    <ClInclude Include="Casilla.h" />
+    <ClInclude Include="Casilla2.h" />
+    <ClInclude Include="Constants.h" />
     <ClInclude Include="Pagina.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ArbolB_Imp.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
